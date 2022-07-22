@@ -15,3 +15,5 @@ In order to make the solution generic elements 1. and 2. should be either as inp
 (which would mean that we have to create a separate reader-writer class that only handles read / write ops and merge class will call
 it as needed).  
 
+In order to run (Webstorm) get the files, put them in separate dir, run npm install, then create Webstorm configuration to run main.ts
+
